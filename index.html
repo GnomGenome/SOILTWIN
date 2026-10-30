@@ -1,0 +1,243 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>SOILTWIN — Цифровой двойник почв</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header class="header">
+    <a class="logo" href="#">SOIL<span>TWIN</span></a>
+
+    <nav>
+        <a href="#map-section">Карта</a>
+        <a href="#about">О проекте</a>
+        <a href="#method">Методология</a>
+    </nav>
+
+    <div class="header-label">DIGITAL SOIL MODEL</div>
+</header>
+
+<main>
+
+    <section class="hero">
+        <div class="hero-content">
+            <div class="eyebrow">ЦИФРОВАЯ ЭКОСИСТЕМА ПОЧВ</div>
+
+            <h1>
+                Цифровой двойник<br>
+                <span>почвенных микробных</span><br>
+                сообществ
+            </h1>
+
+            <p>
+                Пространственное моделирование микробного разнообразия
+                почв Ростовской области на основе метагеномных,
+                климатических и почвенных данных.
+            </p>
+
+            <a href="#map-section" class="primary-button">
+                Исследовать карту <span>↗</span>
+            </a>
+        </div>
+
+        <div class="hero-visual">
+            <div class="visual-circle circle-one"></div>
+            <div class="visual-circle circle-two"></div>
+            <div class="visual-center">
+                <span>SOIL</span>
+                <strong>01</strong>
+            </div>
+            <div class="visual-caption">SPATIAL MICROBIAL MODEL</div>
+        </div>
+    </section>
+
+    <section class="stats">
+        <div class="stat">
+            <strong id="layer-count">—</strong>
+            <span>таксономических слоёв</span>
+        </div>
+
+        <div class="stat">
+            <strong>RF</strong>
+            <span>алгоритм моделирования</span>
+        </div>
+
+        <div class="stat">
+            <strong>500 м</strong>
+            <span>пространственное разрешение</span>
+        </div>
+
+        <div class="stat">
+            <strong>ЮФО</strong>
+            <span>регион исследования</span>
+        </div>
+    </section>
+
+    <section class="map-section" id="map-section">
+
+        <div class="section-heading">
+            <div>
+                <div class="eyebrow">SPATIAL VISUALIZATION</div>
+                <h2>Карта микробных сообществ</h2>
+                <p>Пространственное распределение относительной представленности таксонов</p>
+            </div>
+
+            <div class="map-tag">РОСТОВСКАЯ ОБЛАСТЬ</div>
+        </div>
+
+        <div class="map-layout">
+
+            <aside class="map-sidebar">
+                <label for="taxon-select">Таксономическая группа</label>
+
+                <select id="taxon-select">
+                    <option value="">Загрузка данных...</option>
+                </select>
+
+                <div class="control-divider"></div>
+
+                <label for="opacity">Прозрачность слоя</label>
+
+                <div class="range-row">
+                    <input type="range" id="opacity" min="0" max="100" value="75">
+                    <span id="opacity-value">75%</span>
+                </div>
+
+                <div class="control-divider"></div>
+
+                <div class="legend-title">Интенсивность сигнала</div>
+
+                <div class="legend-gradient"></div>
+
+                <div class="legend-values">
+                    <span id="legend-min">—</span>
+                    <span id="legend-max">—</span>
+                </div>
+
+                <p class="legend-note">
+                    Шкала нормирована отдельно для каждого таксона
+                    по 2–98 перцентилям.
+                </p>
+
+                <button id="reset-view" class="secondary-button">
+                    Сбросить масштаб
+                </button>
+
+                <div id="map-status" class="map-status">
+                    Загрузка карты...
+                </div>
+            </aside>
+
+            <div id="map"></div>
+
+        </div>
+    </section>
+
+    <section class="about-section" id="about">
+
+        <div class="section-heading">
+            <div>
+                <div class="eyebrow">ABOUT THE PROJECT</div>
+                <h2>О проекте</h2>
+            </div>
+        </div>
+
+        <div class="about-grid">
+
+            <article class="info-card">
+                <div class="card-number">01</div>
+                <h3>Цель исследования</h3>
+                <p>
+                    Изучение пространственных закономерностей
+                    распределения почвенных микробных сообществ
+                    Ростовской области.
+                </p>
+            </article>
+
+            <article class="info-card">
+                <div class="card-number">02</div>
+                <h3>Исходные данные</h3>
+                <p>
+                    Метагеномные данные, физико-химические
+                    характеристики почв, климатические показатели
+                    и геопространственная информация.
+                </p>
+            </article>
+
+            <article class="info-card">
+                <div class="card-number">03</div>
+                <h3>Результат</h3>
+                <p>
+                    Пространственные растровые модели,
+                    позволяющие визуализировать прогнозируемое
+                    распределение таксономических групп.
+                </p>
+            </article>
+
+        </div>
+    </section>
+
+    <section class="method-section" id="method">
+
+        <div class="eyebrow">RESEARCH PIPELINE</div>
+        <h2>От метагеномики к пространственной модели</h2>
+
+        <div class="method-flow">
+            <div class="method-step">
+                <span>01</span>
+                <strong>Метагеномные данные</strong>
+                <p>Таксономический состав микробиома</p>
+            </div>
+
+            <div class="flow-arrow">→</div>
+
+            <div class="method-step">
+                <span>02</span>
+                <strong>Экологические признаки</strong>
+                <p>Климатические и почвенные характеристики</p>
+            </div>
+
+            <div class="flow-arrow">→</div>
+
+            <div class="method-step">
+                <span>03</span>
+                <strong>Random Forest</strong>
+                <p>Построение моделей распределения</p>
+            </div>
+
+            <div class="flow-arrow">→</div>
+
+            <div class="method-step">
+                <span>04</span>
+                <strong>Пространственные карты</strong>
+                <p>Визуализация результатов моделирования</p>
+            </div>
+        </div>
+
+    </section>
+
+</main>
+
+<footer>
+    <div class="logo">SOIL<span>TWIN</span></div>
+    <p>Цифровое моделирование почвенных микробных сообществ</p>
+    <span>Research project · 2026</span>
+</footer>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="script.js"></script>
+
+</body>
+</html>

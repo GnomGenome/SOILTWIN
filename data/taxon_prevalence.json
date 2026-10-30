@@ -1,0 +1,272 @@
+[
+  {
+    "taxon": "Acidobacteriota",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Actinomycetota",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Euryarchaeota",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Evosea",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Fibrobacterota",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Fusobacteriota",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Gemmatimonadota",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Ignavibacteriota",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Kiritimatiellota",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Lentisphaerota",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Mycoplasmatota",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Myxococcota",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Nitrososphaerota",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Nitrospinota",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Nitrospirota",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Planctomycetota",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Pseudomonadota",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Rhodophyta",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Rhodothermota",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Spirochaetota",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Synergistota",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Thermodesulfobacteriota",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Thermomicrobiota",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Thermoproteota",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Thermotogota",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Elusimicrobiota",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Dictyoglomota",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Deinococcota",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Candidatus Cloacimonadota",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Aquificota",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Armatimonadota",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Atribacterota",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Bacillariophyta",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Bacillota",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Bacteroidota",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Balneolota",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Bdellovibrionota",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Caldisericota",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Calditrichota",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Campylobacterota",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Candidatus Lokiarchaeota",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Deferribacterota",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Candidatus Micrarchaeota",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Candidatus Saccharibacteria",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Candidatus Thermoplasmatota",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Chlamydiota",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Chlorobiota",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Chloroflexota",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Chrysiogenota",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Coprothermobacterota",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Cyanobacteriota",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Verrucomicrobiota",
+    "sample_count": 60,
+    "prevalence_percent": 98.36
+  },
+  {
+    "taxon": "Candidatus Nanohaloarchaeota",
+    "sample_count": 59,
+    "prevalence_percent": 96.72
+  },
+  {
+    "taxon": "Nanoarchaeota",
+    "sample_count": 56,
+    "prevalence_percent": 91.8
+  }
+]

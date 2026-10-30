@@ -1,0 +1,1076 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.305358,
+          47.323861
+        ]
+      },
+      "properties": {
+        "Sample": 37,
+        "SubRegion": "Миусский подрайон",
+        "SoilType": "Черноземы",
+        "SubType": "Черноземы обыкновенные",
+        "Granularity": "глинистый, тяжелосуглинистый",
+        "Parent_Mat": "не определено",
+        "type_area": 34571.467,
+        "clay": 60.0,
+        "soc": 1175.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.2372119999999,
+          48.3438469999999
+        ]
+      },
+      "properties": {
+        "Sample": 43,
+        "SubRegion": "Глубокинский подрайон",
+        "SoilType": null,
+        "SubType": null,
+        "Granularity": null,
+        "Parent_Mat": null,
+        "type_area": null,
+        "clay": 5.0,
+        "soc": 460.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.303953,
+          47.317917
+        ]
+      },
+      "properties": {
+        "Sample": 49,
+        "SubRegion": "Миусский подрайон",
+        "SoilType": "Черноземы",
+        "SubType": "Черноземы обыкновенные",
+        "Granularity": "глинистый",
+        "Parent_Mat": "лессовидные глины",
+        "type_area": 65612.518,
+        "clay": 60.0,
+        "soc": 899.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.237889,
+          48.350025
+        ]
+      },
+      "properties": {
+        "Sample": 63,
+        "SubRegion": "Глубокинский подрайон",
+        "SoilType": null,
+        "SubType": null,
+        "Granularity": null,
+        "Parent_Mat": null,
+        "type_area": null,
+        "clay": 5.0,
+        "soc": 460.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.302939,
+          47.321722
+        ]
+      },
+      "properties": {
+        "Sample": 98,
+        "SubRegion": "Миусский подрайон",
+        "SoilType": "Черноземы",
+        "SubType": "Черноземы обыкновенные",
+        "Granularity": "глинистый, тяжелосуглинистый",
+        "Parent_Mat": "не определено",
+        "type_area": 34571.467,
+        "clay": 60.0,
+        "soc": 1175.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.313209,
+          47.297382
+        ]
+      },
+      "properties": {
+        "Sample": 144,
+        "SubRegion": null,
+        "SoilType": null,
+        "SubType": null,
+        "Granularity": null,
+        "Parent_Mat": null,
+        "type_area": null,
+        "clay": 50.0,
+        "soc": 1175.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.300308,
+          47.319667
+        ]
+      },
+      "properties": {
+        "Sample": 159,
+        "SubRegion": "Миусский подрайон",
+        "SoilType": "Черноземы",
+        "SubType": "Черноземы обыкновенные",
+        "Granularity": "глинистый, тяжелосуглинистый",
+        "Parent_Mat": "не определено",
+        "type_area": 34571.467,
+        "clay": 50.0,
+        "soc": 899.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.30045,
+          47.324348
+        ]
+      },
+      "properties": {
+        "Sample": 166,
+        "SubRegion": "Миусский подрайон",
+        "SoilType": "Черноземы",
+        "SubType": "Черноземы обыкновенные",
+        "Granularity": "глинистый, тяжелосуглинистый",
+        "Parent_Mat": "не определено",
+        "type_area": 34571.467,
+        "clay": 60.0,
+        "soc": 1175.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.4464499999999,
+          46.9065399999999
+        ]
+      },
+      "properties": {
+        "Sample": 1501,
+        "SubRegion": "Центральный подрайон",
+        "SoilType": "Черноземы",
+        "SubType": "Черноземы обыкновенные",
+        "Granularity": "тяжелосуглинистый",
+        "Parent_Mat": "не определено",
+        "type_area": 95927.799,
+        "clay": 34.0,
+        "soc": 665.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.462032,
+          46.9121
+        ]
+      },
+      "properties": {
+        "Sample": 1502,
+        "SubRegion": "Центральный подрайон",
+        "SoilType": "Черноземы",
+        "SubType": "Черноземы обыкновенные",
+        "Granularity": "глинистый, тяжелосуглинистый",
+        "Parent_Mat": "лессовидные глины и суглинки",
+        "type_area": 95848.889,
+        "clay": 60.0,
+        "soc": 946.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.8743199999999,
+          46.95528
+        ]
+      },
+      "properties": {
+        "Sample": 1503,
+        "SubRegion": "Центральный подрайон",
+        "SoilType": "Черноземы",
+        "SubType": "Черноземы обыкновенные",
+        "Granularity": "глинистый, тяжелосуглинистый",
+        "Parent_Mat": "Лессовидные глины и суглинки",
+        "type_area": null,
+        "clay": 60.0,
+        "soc": 946.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.7782199999999,
+          49.4428899999999
+        ]
+      },
+      "properties": {
+        "Sample": 1601,
+        "SubRegion": "Калитвенский подрайон",
+        "SoilType": "Солонцы автоморфные",
+        "SubType": "Солонцы черноземные",
+        "Granularity": "среднесуглинистый",
+        "Parent_Mat": "желто-бурые легкие и средние суглинки",
+        "type_area": 250.125,
+        "clay": 16.0,
+        "soc": 887.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.7746199999999,
+          49.44803
+        ]
+      },
+      "properties": {
+        "Sample": 1602,
+        "SubRegion": "Калитвенский подрайон",
+        "SoilType": "Черноземы",
+        "SubType": "Черноземы южные",
+        "Granularity": "легкосуглинистый",
+        "Parent_Mat": "желто-бурые легкие суглинки",
+        "type_area": 1837.753,
+        "clay": 16.0,
+        "soc": 887.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.49797,
+          49.0198399999999
+        ]
+      },
+      "properties": {
+        "Sample": 1603,
+        "SubRegion": "Глубокинский подрайон",
+        "SoilType": null,
+        "SubType": null,
+        "Granularity": null,
+        "Parent_Mat": null,
+        "type_area": null,
+        "clay": 60.0,
+        "soc": 887.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.504677,
+          49.0158099999999
+        ]
+      },
+      "properties": {
+        "Sample": 1604,
+        "SubRegion": "Глубокинский подрайон",
+        "SoilType": null,
+        "SubType": null,
+        "Granularity": null,
+        "Parent_Mat": null,
+        "type_area": null,
+        "clay": 60.0,
+        "soc": 887.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.6806499999999,
+          47.6272499999999
+        ]
+      },
+      "properties": {
+        "Sample": 1606,
+        "SubRegion": "Несветайско-Грушевский подрайон",
+        "SoilType": "Черноземы",
+        "SubType": "Черноземы южные",
+        "Granularity": "глинистый, тяжелосуглинистый",
+        "Parent_Mat": "лессовидные глины и суглинки",
+        "type_area": 17235.067,
+        "clay": 60.0,
+        "soc": 1175.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.1540779999999,
+          47.5054099495605
+        ]
+      },
+      "properties": {
+        "Sample": 1607,
+        "SubRegion": "Несветайско-Грушевский подрайон",
+        "SoilType": "Черноземы",
+        "SubType": "Черноземы обыкновенные",
+        "Granularity": "легкоглинистый, тяжелосуглинистый",
+        "Parent_Mat": "не определено",
+        "type_area": 17168.088,
+        "clay": 40.0,
+        "soc": 946.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.006892,
+          46.4675269999999
+        ]
+      },
+      "properties": {
+        "Sample": 1701,
+        "SubRegion": "Гашун-Джураксальский подрайон a",
+        "SoilType": "Солонцы автоморфные",
+        "SubType": "Солонцы каштановые",
+        "Granularity": "тяжелосуглинистый",
+        "Parent_Mat": "лессовидные суглинки",
+        "type_area": 96444.214,
+        "clay": 34.0,
+        "soc": 739.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.0063719999999,
+          46.4678389999999
+        ]
+      },
+      "properties": {
+        "Sample": 1702,
+        "SubRegion": "Гашун-Джураксальский подрайон a",
+        "SoilType": "Каштановые почвы",
+        "SubType": "Каштановые почвы",
+        "Granularity": "тяжелосуглинистый",
+        "Parent_Mat": "лессовидные суглинки",
+        "type_area": 96444.214,
+        "clay": 34.0,
+        "soc": 739.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.00652,
+          46.4679479999999
+        ]
+      },
+      "properties": {
+        "Sample": 1703,
+        "SubRegion": "Гашун-Джураксальский подрайон a",
+        "SoilType": "Каштановые почвы",
+        "SubType": "Каштановые почвы",
+        "Granularity": "тяжелосуглинистый",
+        "Parent_Mat": "лессовидные суглинки",
+        "type_area": 96444.214,
+        "clay": 34.0,
+        "soc": 739.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.8641179999999,
+          46.533642
+        ]
+      },
+      "properties": {
+        "Sample": 1705,
+        "SubRegion": "Маныч-Гудиловский подрайон",
+        "SoilType": "Черноземы",
+        "SubType": "Черноземы обыкновенные",
+        "Granularity": "глинистый, тяжелосуглинистый",
+        "Parent_Mat": "не определено",
+        "type_area": 13765.027,
+        "clay": 60.0,
+        "soc": 502.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.657186,
+          47.234234
+        ]
+      },
+      "properties": {
+        "Sample": 1706,
+        "SubRegion": "Тузловский подрайон",
+        "SoilType": null,
+        "SubType": null,
+        "Granularity": null,
+        "Parent_Mat": null,
+        "type_area": null,
+        "clay": 60.0,
+        "soc": 946.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6569659999999,
+          47.237541
+        ]
+      },
+      "properties": {
+        "Sample": 1708,
+        "SubRegion": "Тузловский подрайон",
+        "SoilType": null,
+        "SubType": null,
+        "Granularity": null,
+        "Parent_Mat": null,
+        "type_area": null,
+        "clay": 60.0,
+        "soc": 946.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.65109,
+          47.2360019999999
+        ]
+      },
+      "properties": {
+        "Sample": 1801,
+        "SubRegion": "Тузловский подрайон",
+        "SoilType": null,
+        "SubType": null,
+        "Granularity": null,
+        "Parent_Mat": null,
+        "type_area": null,
+        "clay": 60.0,
+        "soc": 946.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.3493589999999,
+          47.150615
+        ]
+      },
+      "properties": {
+        "Sample": 1804,
+        "SubRegion": "не определено",
+        "SoilType": "Аллювиальные луговые насыщенные почвы",
+        "SubType": "Аллювиальные луговые насыщенные почвы",
+        "Granularity": "тяжелосуглинистый",
+        "Parent_Mat": "не определено",
+        "type_area": null,
+        "clay": 34.0,
+        "soc": 1010.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.34866,
+          47.15194
+        ]
+      },
+      "properties": {
+        "Sample": 1805,
+        "SubRegion": "не определено",
+        "SoilType": "Аллювиальные луговые насыщенные почвы",
+        "SubType": "Аллювиальные луговые насыщенные почвы",
+        "Granularity": "тяжелосуглинистый",
+        "Parent_Mat": "не определено",
+        "type_area": null,
+        "clay": 34.0,
+        "soc": 1010.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.25394,
+          48.4246699999999
+        ]
+      },
+      "properties": {
+        "Sample": 1809,
+        "SubRegion": "Глубокинский подрайон",
+        "SoilType": "Черноземы",
+        "SubType": "Черноземы южные",
+        "Granularity": "глинистый, тяжелосуглинистый",
+        "Parent_Mat": "желто-бурые глины и суглинки",
+        "type_area": 158219.098,
+        "clay": 34.0,
+        "soc": 460.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.2536399999999,
+          48.42506
+        ]
+      },
+      "properties": {
+        "Sample": 1810,
+        "SubRegion": "Глубокинский подрайон",
+        "SoilType": "Черноземы",
+        "SubType": "Черноземы южные",
+        "Granularity": "глинистый, тяжелосуглинистый",
+        "Parent_Mat": "желто-бурые глины и суглинки",
+        "type_area": 158219.098,
+        "clay": 34.0,
+        "soc": 460.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.2547145706757,
+          48.4245589289161
+        ]
+      },
+      "properties": {
+        "Sample": 1811,
+        "SubRegion": "Глубокинский подрайон",
+        "SoilType": "Черноземы",
+        "SubType": "Черноземы южные",
+        "Granularity": "глинистый, тяжелосуглинистый, среднесуглинистый",
+        "Parent_Mat": "желто-бурые глины и суглинки",
+        "type_area": 158219.098,
+        "clay": 34.0,
+        "soc": 460.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.7299599999999,
+          48.1185999999999
+        ]
+      },
+      "properties": {
+        "Sample": 1812,
+        "SubRegion": "Подрайон Донецкого кряжа",
+        "SoilType": "Обнажения плотных пород",
+        "SubType": "не определено",
+        "Granularity": "тяжелосуглинистый",
+        "Parent_Mat": "элювий плотных пород",
+        "type_area": 15133.378,
+        "clay": 34.0,
+        "soc": 460.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.7292699999999,
+          48.1185899999999
+        ]
+      },
+      "properties": {
+        "Sample": 1813,
+        "SubRegion": "Подрайон Донецкого кряжа",
+        "SoilType": "Черноземы неполноразвитые",
+        "SubType": "не определено",
+        "Granularity": "тяжелосуглинистый",
+        "Parent_Mat": "элювий плотных пород",
+        "type_area": 15133.378,
+        "clay": 34.0,
+        "soc": 460.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.3676499999999,
+          47.4198099999999
+        ]
+      },
+      "properties": {
+        "Sample": 1815,
+        "SubRegion": "Несветайско-Грушевский подрайон",
+        "SoilType": "Черноземы",
+        "SubType": "Черноземы обыкновенные",
+        "Granularity": "тяжелосуглинистый",
+        "Parent_Mat": "лессовидные тяжелые суглинки",
+        "type_area": 12959.868,
+        "clay": 34.0,
+        "soc": 460.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.37234,
+          47.42437
+        ]
+      },
+      "properties": {
+        "Sample": 1816,
+        "SubRegion": "Несветайско-Грушевский подрайон",
+        "SoilType": "Черноземы",
+        "SubType": "Черноземы обыкновенные",
+        "Granularity": "тяжелосуглинистый",
+        "Parent_Mat": "желто-бурые средние глины и тяжелые суглинки",
+        "type_area": 81.874,
+        "clay": 34.0,
+        "soc": 460.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.8667969999999,
+          47.4108569999999
+        ]
+      },
+      "properties": {
+        "Sample": 1817,
+        "SubRegion": "Миусский подрайон",
+        "SoilType": "Черноземы",
+        "SubType": "Черноземы обыкновенные",
+        "Granularity": "легкоглинистый",
+        "Parent_Mat": "желто-бурые легкие глины",
+        "type_area": 3443.53,
+        "clay": 46.0,
+        "soc": 946.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.3938139999999,
+          47.1982059999999
+        ]
+      },
+      "properties": {
+        "Sample": 1818,
+        "SubRegion": "не определено",
+        "SoilType": "Аллювиальные луговые насыщенные почвы",
+        "SubType": "Аллювиальные луговые насыщенные слоистые почвы",
+        "Granularity": "не определено",
+        "Parent_Mat": "не определено",
+        "type_area": null,
+        "clay": 34.0,
+        "soc": 460.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.339956,
+          47.2039109999999
+        ]
+      },
+      "properties": {
+        "Sample": 1819,
+        "SubRegion": "не определено",
+        "SoilType": "Аллювиальные болотные иловато-перегнойно-глеевые почвы",
+        "SubType": "Аллювиальные болотные иловато-глеевые",
+        "Granularity": "тяжелосуглинистый",
+        "Parent_Mat": "не определено",
+        "type_area": null,
+        "clay": 34.0,
+        "soc": 1010.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.373742,
+          47.27698
+        ]
+      },
+      "properties": {
+        "Sample": 2501,
+        "SubRegion": "Тузловский подрайон",
+        "SoilType": "Черноземы",
+        "SubType": "не определено",
+        "Granularity": "не определено",
+        "Parent_Mat": "элювий известняка",
+        "type_area": 7589.041,
+        "clay": 60.0,
+        "soc": 639.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4505199999999,
+          47.46285
+        ]
+      },
+      "properties": {
+        "Sample": 2504,
+        "SubRegion": "Тузловский подрайон",
+        "SoilType": "Черноземы",
+        "SubType": "Черноземы обыкновенные",
+        "Granularity": "глинистый",
+        "Parent_Mat": "Лессовидные глины",
+        "type_area": null,
+        "clay": 50.0,
+        "soc": 946.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4526589999999,
+          47.4632082759294
+        ]
+      },
+      "properties": {
+        "Sample": 2505,
+        "SubRegion": "Тузловский подрайон",
+        "SoilType": "Черноземы неполноразвитые",
+        "SubType": "не определено",
+        "Granularity": "глинистый, тяжелосуглинистый",
+        "Parent_Mat": "Элювий известняка",
+        "type_area": null,
+        "clay": 60.0,
+        "soc": 946.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.1604349999999,
+          47.595747
+        ]
+      },
+      "properties": {
+        "Sample": 2508,
+        "SubRegion": "Усть-Донецкий подрайон a",
+        "SoilType": null,
+        "SubType": null,
+        "Granularity": null,
+        "Parent_Mat": null,
+        "type_area": null,
+        "clay": 16.0,
+        "soc": 887.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.264786,
+          46.8840119999999
+        ]
+      },
+      "properties": {
+        "Sample": 2509,
+        "SubRegion": "Приманыческо-Егорлыкский подрайон",
+        "SoilType": "Черноземы",
+        "SubType": "Черноземы обыкновенные",
+        "Granularity": "глинистый, тяжелосуглинистый",
+        "Parent_Mat": "лессовидные глины и суглинки",
+        "type_area": 188684.442,
+        "clay": 60.0,
+        "soc": 687.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.26315,
+          46.88462
+        ]
+      },
+      "properties": {
+        "Sample": 2510,
+        "SubRegion": "Приманыческо-Егорлыкский подрайон",
+        "SoilType": "Почвы балок",
+        "SubType": "не определено",
+        "Granularity": "глинистый, тяжелосуглинистый",
+        "Parent_Mat": "лессовидные и делювиальные отложения",
+        "type_area": 1440.872,
+        "clay": 60.0,
+        "soc": 946.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.25677,
+          46.88373
+        ]
+      },
+      "properties": {
+        "Sample": 2511,
+        "SubRegion": "Приманыческо-Егорлыкский подрайон",
+        "SoilType": "Почвы балок",
+        "SubType": "не определено",
+        "Granularity": "глинистый, тяжелосуглинистый",
+        "Parent_Mat": "лессовидные и делювиальные отложения",
+        "type_area": 1440.872,
+        "clay": 60.0,
+        "soc": 946.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.9376589999999,
+          49.3104409999999
+        ]
+      },
+      "properties": {
+        "Sample": 2512,
+        "SubRegion": "Калитвенский подрайон",
+        "SoilType": null,
+        "SubType": null,
+        "Granularity": null,
+        "Parent_Mat": null,
+        "type_area": null,
+        "clay": 60.0,
+        "soc": 1175.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.94583,
+          49.3070299999999
+        ]
+      },
+      "properties": {
+        "Sample": 2513,
+        "SubRegion": "Калитвенский подрайон",
+        "SoilType": null,
+        "SubType": null,
+        "Granularity": null,
+        "Parent_Mat": null,
+        "type_area": null,
+        "clay": 34.0,
+        "soc": 1175.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.9345599999999,
+          49.06789
+        ]
+      },
+      "properties": {
+        "Sample": 2516,
+        "SubRegion": "Калитвенский подрайон",
+        "SoilType": "Черноземы",
+        "SubType": "Черноземы южные",
+        "Granularity": "глинистый, тяжелосуглинистый",
+        "Parent_Mat": "желто-бурые глины и суглинки",
+        "type_area": 100299.669,
+        "clay": 60.0,
+        "soc": 887.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.5423199999999,
+          46.5194199999999
+        ]
+      },
+      "properties": {
+        "Sample": 2520,
+        "SubRegion": "Приманыческо-Егорлыкский подрайон",
+        "SoilType": "Почвы балок",
+        "SubType": "не определено",
+        "Granularity": "тяжелосуглинистый",
+        "Parent_Mat": "лессовидные тяжелые суглинки, делювиальные отложения лессовидные",
+        "type_area": 331.508,
+        "clay": 34.0,
+        "soc": 946.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.28466,
+          46.3191899999999
+        ]
+      },
+      "properties": {
+        "Sample": 2523,
+        "SubRegion": "Ремонтненский подрайон",
+        "SoilType": "Солончако-солонцы",
+        "SubType": "не определено",
+        "Granularity": "не определено",
+        "Parent_Mat": "древнекаспийские отложения",
+        "type_area": 8676.483,
+        "clay": 60.0,
+        "soc": 547.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.28524,
+          46.3194
+        ]
+      },
+      "properties": {
+        "Sample": 2525,
+        "SubRegion": "Ремонтненский подрайон",
+        "SoilType": "Солонцы автоморфные",
+        "SubType": "Солонцы каштановые",
+        "Granularity": "не определено",
+        "Parent_Mat": "древнекаспийские отложения",
+        "type_area": 8676.483,
+        "clay": 60.0,
+        "soc": 547.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.8287699999999,
+          48.43274
+        ]
+      },
+      "properties": {
+        "Sample": 2529,
+        "SubRegion": "Глубокинский подрайон",
+        "SoilType": null,
+        "SubType": null,
+        "Granularity": null,
+        "Parent_Mat": null,
+        "type_area": null,
+        "clay": 16.0,
+        "soc": 887.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.227943,
+          47.4137929999999
+        ]
+      },
+      "properties": {
+        "Sample": "7_1Hch",
+        "SubRegion": "не определено",
+        "SoilType": "Лугово-черноземные почвы",
+        "SubType": "Луговато-черноземные почвы",
+        "Granularity": "тяжелосуглинистый",
+        "Parent_Mat": "древнеаллювиальные отложения",
+        "type_area": null,
+        "clay": 34.0,
+        "soc": 632.0
+      }
+    }
+  ]
+}
